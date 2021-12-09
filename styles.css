@@ -1,0 +1,13 @@
+img {
+   width: 400px;
+   height: 200px;
+   margin: 2px;
+
+   
+}
+p {
+    float: left;
+}
+hr {
+    clear: both;
+}
